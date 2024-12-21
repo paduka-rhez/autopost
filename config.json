@@ -1,0 +1,42 @@
+{
+    "TOKEN": "TOKEN_DISCORD_ANDA",
+    "CHANNEL_IDS": {
+        "MULTI": ["CHANNEL_ID_1", "CHANNEL_ID_2"]
+    },
+    "LOG_WEBHOOK_URL": "WEBHOOK_URL_ANDA",
+    "LOG_FILE": "logs.json",
+    "EMOJIS": {
+        "TITLE_EMOJI": "📌",
+        "INFO_EMOJI": "ℹ️",
+        "STATUS_EMOJI": "✅",
+        "ACCOUNT_EMOJI": "👤",
+        "UPTIME_EMOJI": "⏳",
+        "CHANNEL_EMOJI": "📢",
+        "MESSAGE_EMOJI": "✉️",
+        "DISCORD_EMOJI": "🌐",
+        "ARROW_EMOJI": "➡️"
+    },
+    "EMBED_IMAGE": {
+        "SMALL_IMAGE": "URL_IMAGE_KOMPLEMEN",
+        "BIG_IMAGE": "URL_IMAGE_BESAR"
+    },
+    "DISCORD_LINK": "URL_SERVER_DISCORD_ANDA",
+    "MODE": "MULTI",
+    "MESSAGES": {
+        "SINGLE": {
+            "CHANNEL_ID": "CHANNEL_ID_ANDA",
+            "DELAY": 10,
+            "MESSAGE": "Pesan untuk SINGLE mode"
+        },
+        "MULTI": {
+            "CHANNEL_ID_1": {
+                "MESSAGE": "Pesan untuk channel 1",
+                "DELAY": 5
+            },
+            "CHANNEL_ID_2": {
+                "MESSAGE": "Pesan untuk channel 2",
+                "DELAY": 10
+            }
+        }
+    }
+}
